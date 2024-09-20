@@ -13,5 +13,5 @@ Este repositório contém scripts SQL para criar e manipular um banco de dados s
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Vsshouver/Sql_basic.git
+   git clone https://github.com/Vsshouver/SQL_BASIC
    cd meu-repositorio-sql
