@@ -11,3 +11,5 @@ CREATE TABLE posts (
     conteudo TEXT NOT NULL,
     data_postagem TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id)
+
+--comandos simples para criacao de tabelas --
